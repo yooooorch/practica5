@@ -1,0 +1,27 @@
+h1 {font-family:Arial;
+    color:red;
+}
+p{ font-family:;
+    color:brown;
+    
+}
+p strong{font-family:Arial;
+       color:blueviolet;
+}
+p em{
+    color:darkgreen;
+}
+ul{width:450px;
+    margin-left:30px;
+    padding-left:0px; 
+    
+}
+li{font-family:Courier New;
+    background-color:gray;
+    color:darkkhaki;
+}
+img {
+    width:400px;
+    height:150px;
+    
+}
